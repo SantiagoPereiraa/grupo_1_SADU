@@ -6,4 +6,16 @@ Estamos conformados por:
 -Agustin Pereira:frontender
 -Santiago Pereira:backender
 -Duvan Bedoya:
--Lautaro Maximo Zaldivar:# grupo_1_SADU
+-Lautaro Maximo Zaldivar:
+
+REFERENTES DEL MERCADO:
+
+-Benka:  Es llamativa por su tipografia resaltante y esta bien organizada.
+
+-Modatex: La distribución de las prendas de ropa es muy facil de usar, ya que podes ver varias al mismo tiempo sin necesidad de pararte en una.
+
+-Desiderata: Hace buen uso del marketing.
+
+-Asos: Tiene un buen footer ya que cuenta con todo lo necesario que tenemos que saber acerca de la marca.
+
+-Dafiti: Tiene colores llamativos y es facil de usar.

@@ -20,3 +20,5 @@ REFERENTES DEL MERCADO:
 -Asos: Tiene un buen footer ya que cuenta con todo lo necesario que tenemos que saber acerca de la marca.
 
 -Dafiti: Tiene colores llamativos y es facil de usar.
+
+TRELLO: https://trello.com/b/TBidA6hC/suda-e-comerce

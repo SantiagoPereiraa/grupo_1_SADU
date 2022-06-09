@@ -1,3 +1,5 @@
+Retrospectiva SPRINT 1.
+
 Dificultades:
 -Nombre para la página
 -Estructura del wireframe

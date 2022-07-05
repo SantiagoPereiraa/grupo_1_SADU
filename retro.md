@@ -7,3 +7,14 @@ Dificultades:
 Facilidades:
 -Elegir la tematica de las cosas que queriamos vender
 -Las páginas en las cuales nos basamos
+
+Retrospectiva SPRINT 2:
+
+Dificultades:
+-Levantamiento del servidor
+-Linkeo de imagenes
+
+Facilidades:
+-Eleccion de imagenes
+-Hacer las cajas de las imagenes
+

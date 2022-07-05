@@ -22,3 +22,5 @@ REFERENTES DEL MERCADO:
 -Dafiti: Tiene colores llamativos y es facil de usar.
 
 TRELLO: https://trello.com/b/TBidA6hC/suda-e-comerce
+
+Actualizacion TRELLO: https://trello.com/b/TBidA6hC/sadu-e-comerce

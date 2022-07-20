@@ -18,3 +18,11 @@ Facilidades:
 -Eleccion de imagenes
 -Hacer las cajas de las imagenes
 
+Retrospectiva SPRINT 3.
+Dificultades:
+-Creación del registro.
+-Carrito de compras.
+-Partials.
+Facilidades:
+-Implementacón de EJS.
+-Creacón y edición de productos.

@@ -24,3 +24,5 @@ REFERENTES DEL MERCADO:
 TRELLO: https://trello.com/b/TBidA6hC/suda-e-comerce
 
 Actualizacion TRELLO: https://trello.com/b/TBidA6hC/sadu-e-comerce
+
+Actualizacion TRELLO: https://trello.com/b/TBidA6hC/sadu-e-comerce

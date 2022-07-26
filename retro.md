@@ -1,4 +1,4 @@
-Retrospectiva SPRINT 1.
+Retrospectiva SPRINT 1:
 
 Dificultades:
 -Nombre para la página
@@ -18,11 +18,24 @@ Facilidades:
 -Eleccion de imagenes
 -Hacer las cajas de las imagenes
 
-Retrospectiva SPRINT 3.
+Retrospectiva SPRINT 3:
+
 Dificultades:
 -Creación del registro.
 -Carrito de compras.
 -Partials.
+
 Facilidades:
 -Implementacón de EJS.
 -Creacón y edición de productos.
+
+Retrospectiva SPRINT 4:
+
+Dificultades:
+-Definir los campos necesarios para los usuarios.
+
+Facilidades:
+-La utilizacion de CRUD.
+
+
+
